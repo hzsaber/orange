@@ -11,6 +11,7 @@ public class Test2ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("1");
     }
 
 }
